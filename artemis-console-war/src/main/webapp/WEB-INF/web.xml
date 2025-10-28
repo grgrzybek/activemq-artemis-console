@@ -155,7 +155,7 @@
 
   <servlet>
     <servlet-name>logout</servlet-name>
-    <servlet-class>io.hawt.web.auth.LogoutServlet</servlet-class>
+    <servlet-class>org.apache.activemq.artemis.console.LogoutServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>logout</servlet-name>
